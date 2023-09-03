@@ -1,0 +1,1 @@
+Signs and Symptoms: When you have a complex switch statement or sequence of if statements
